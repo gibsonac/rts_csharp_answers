@@ -1,0 +1,11 @@
+/Users/Gibby540/Desktop/rts_labs_code_exercise_c#/bin/Debug/netcoreapp2.2/rts_labs_code_exercise_c#.deps.json
+/Users/Gibby540/Desktop/rts_labs_code_exercise_c#/bin/Debug/netcoreapp2.2/rts_labs_code_exercise_c#.runtimeconfig.json
+/Users/Gibby540/Desktop/rts_labs_code_exercise_c#/bin/Debug/netcoreapp2.2/rts_labs_code_exercise_c#.runtimeconfig.dev.json
+/Users/Gibby540/Desktop/rts_labs_code_exercise_c#/bin/Debug/netcoreapp2.2/rts_labs_code_exercise_c#.dll
+/Users/Gibby540/Desktop/rts_labs_code_exercise_c#/bin/Debug/netcoreapp2.2/rts_labs_code_exercise_c#.pdb
+/Users/Gibby540/Desktop/rts_labs_code_exercise_c#/obj/Debug/netcoreapp2.2/rts_labs_code_exercise_c#.csprojAssemblyReference.cache
+/Users/Gibby540/Desktop/rts_labs_code_exercise_c#/obj/Debug/netcoreapp2.2/rts_labs_code_exercise_c#.csproj.CoreCompileInputs.cache
+/Users/Gibby540/Desktop/rts_labs_code_exercise_c#/obj/Debug/netcoreapp2.2/rts_labs_code_exercise_c#.AssemblyInfoInputs.cache
+/Users/Gibby540/Desktop/rts_labs_code_exercise_c#/obj/Debug/netcoreapp2.2/rts_labs_code_exercise_c#.AssemblyInfo.cs
+/Users/Gibby540/Desktop/rts_labs_code_exercise_c#/obj/Debug/netcoreapp2.2/rts_labs_code_exercise_c#.dll
+/Users/Gibby540/Desktop/rts_labs_code_exercise_c#/obj/Debug/netcoreapp2.2/rts_labs_code_exercise_c#.pdb
