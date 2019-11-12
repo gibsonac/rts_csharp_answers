@@ -41,12 +41,16 @@ namespace rts_labs_code_exercise_c_
             if (num < 0)
             {
                 return "You need a positive number to rotate";
-            }
+            };
             if (givenString == "" || givenString == null)
             {
                 return "you need to provide a string!";
-            }
+            };
             num = num % givenString.Length;
+            if (num == 0)
+            {
+                return givenString;
+            };
             var tempString = "";
             var untouchedString = givenString.Length - num;
             var x = givenString.Length - 1;
@@ -55,11 +59,11 @@ namespace rts_labs_code_exercise_c_
                 tempString = givenString[x] + tempString;
                 num--;
                 x--;
-            }
+            };
             for (var i = 0; i < untouchedString; i++)
             {
                 tempString += givenString[i];
-            }
+            };
             return tempString;
         }
         // THE SECOND WAY
@@ -68,12 +72,16 @@ namespace rts_labs_code_exercise_c_
             if (num < 0)
             {
                 return "You need a positive number to rotate";
-            }
+            };
             if (givenString == "" || givenString == null)
             {
                 return "you need to provide a string!";
-            }
+            };
             num = num % givenString.Length;
+            if (num == 0)
+            {
+                return givenString;
+            };
             var splitLocation = givenString.Length - num;
 
             string answer = "";
@@ -83,7 +91,7 @@ namespace rts_labs_code_exercise_c_
             for (var x = stringArray.Length - 1; x >= 0; x--)
             {
                 answer = answer + stringArray[x];
-            }
+            };
             return answer;
         }
     }
