@@ -11,6 +11,8 @@ namespace rts_labs_code_exercise_c_
             Console.WriteLine(questionTwo("MyString", 2));
             Console.WriteLine(questionTwoSplit("MyString", 2));
         }
+
+        // #1  Print the number of integers in an array that are above the given input and the number that are below, e.g. for the array [1, 5, 2, 1, 10] with input 6, print “above: 1, below: 4”.
         public static string Above_and_Below(int[] givenArray, int num)
         {
             int above = 0;
@@ -32,6 +34,8 @@ namespace rts_labs_code_exercise_c_
             };
             return ($"above: {above}, below: {below}");
         }
+
+        // #2  Rotate the characters in a string by a given input and have the overflow appear at the beginning, e.g. “MyString” rotated by 2 is “ngMyStri”.
         public static string questionTwo(string givenString, int num)
         {
             if (num < 0)
